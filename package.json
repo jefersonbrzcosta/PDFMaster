@@ -6,6 +6,7 @@
   "dependencies": {
     "easy-pdf-merge": "^0.2.2",
     "pdf-merge": "^0.1.1",
+    "pdf-parse": "^1.1.1",
     "pdftk": "0.0.0-rc.0"
   }
 }
